@@ -7,7 +7,7 @@ DEPENDENCIES:
   - SwiftLocation (~> 3.2.3)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - SwiftLocation
     - SwiftyJSON
 
@@ -17,4 +17,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 9d6771272cadd283194950904aedf99f35a9e8c5
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.5.0
